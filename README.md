@@ -1,5 +1,3 @@
-# Python_Training
-# Python Syllabus
 Python Syllabus
 ----------------
 1.python Keywords
