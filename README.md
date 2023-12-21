@@ -1,5 +1,5 @@
 Python Syllabus
-----------------
+
 1.python Keywords
 2.Identifiers
 3.Comments in Python
