@@ -86,5 +86,5 @@ print(strslice[:6]) # retreive first six characters of the string
 
 del str1
 
-print(str1)
+# print(str1)
 
